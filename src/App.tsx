@@ -15,7 +15,7 @@ function App() {
         </label>
         <textarea
           id="sourceText"
-          className="h-[500px] border border-gray-300 rounded-lg text-start"
+          className="h-[500px] border border-gray-300 rounded-lg text-start outline-none p-5"
         />
         <div className="flex justify-end">
           <button className="bg-[#9681EB] hover:bg-sky-700 rounded-lg text-white py-3 px-4">
