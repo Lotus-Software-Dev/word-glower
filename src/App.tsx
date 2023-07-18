@@ -1,8 +1,5 @@
-import { useState } from 'react'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="flex flex-col justify-center items-center h-screen gap-20">
       <div className="text-5xl font-sans text-[#6527BE]">Word Glower</div>
