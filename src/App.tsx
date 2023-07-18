@@ -1,3 +1,4 @@
+import Title from './components/Title'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             Generate
           </button>
         </div>
+        <Title>Word Glower</Title>
       </div>
     </div>
   )
